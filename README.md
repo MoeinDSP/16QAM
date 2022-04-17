@@ -1,2 +1,2 @@
 # 16QAM
-16 quadratic amplitude modulation and demodulation 
+16 quadrature amplitude modulation and demodulation 
