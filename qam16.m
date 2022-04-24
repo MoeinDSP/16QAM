@@ -121,7 +121,7 @@ BER_value_Theory=berawgn(Eb_N0_Theory,'qam',16);
 semilogy(Eb_N0_dB,SimBer,'-or',Eb_N0_Theory,BER_value_Theory,'-ok','LineWidth',1.25);
 legend('simulation','theory');
 xlabel('Eb/No, dB')
-ylabel('Bit Error Rate');
+ylabel('BER');
 
 
 
